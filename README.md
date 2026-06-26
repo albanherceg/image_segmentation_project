@@ -88,8 +88,7 @@ The models were evaluated using **Mean Intersection over Union (mIoU)**, one of 
 ├── notebook.ipynb
 ├── presentation.pdf
 ├── README.md
-├── requirements.txt
-└── images/
+└── requirements.txt
 ```
 
 ---
